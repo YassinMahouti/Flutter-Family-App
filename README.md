@@ -18,5 +18,8 @@ Featurelist:
 - A event page where you can make and plan events
 - A calender page where you can plan meeting and events
 
+
+![plot](./assets/images/panda.png)
+
 Credits:
  Devogelaere Cédric, Boutechdat Iliass, Mahouti Yassin and ANANI Komi Daniel
