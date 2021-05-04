@@ -19,7 +19,16 @@ Featurelist:
 - A calender page where you can plan meeting and events
 
 
-![plot](./assets/images/001-panda.png)
+![plot](./Welcome_to_Fam_me.png)
+![plot](./Homefeed.png)
+![plot](./FamMe_chat.jpg)
+![plot](./FamMe_events.jpg)
+![plot](./FamMe_manage.jpg)
+![plot](./FamMe_customize.jpg)
+![plot](./FamMe_planner.jpg)
+
+
+
 
 Credits:
  Devogelaere Cédric, Boutechdat Iliass, Mahouti Yassin and ANANI Komi Daniel
