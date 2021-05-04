@@ -19,7 +19,7 @@ Featurelist:
 - A calender page where you can plan meeting and events
 
 
-![plot](./assets/images/panda.png)
+![plot](./assets/images/001-panda.png)
 
 Credits:
  Devogelaere Cédric, Boutechdat Iliass, Mahouti Yassin and ANANI Komi Daniel
