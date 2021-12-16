@@ -3,8 +3,8 @@
 Technologies/languages:   
 -Dart  
 -Flutter  
--FireStore(use for database)  
--agora_rtc_engine(video call)  
+-Google Firebase
+-agora_rtc_engine for video calling  
  
 Featurelist:
 - Login/register in the firebase
