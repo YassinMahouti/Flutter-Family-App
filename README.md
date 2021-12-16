@@ -1,11 +1,11 @@
 # flutter_familly_app
 
-Technologies/languages:
--Dart
--Flutter
--FireStore(use for database)
--agora_rtc_engine(video call)
-
+Technologies/languages:   
+-Dart  
+-Flutter  
+-FireStore(use for database)  
+-agora_rtc_engine(video call)  
+ 
 Featurelist:
 - Login/register in the firebase
 - A homefeed where you can see the comments of your familygroup
